@@ -1,0 +1,21 @@
+!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Lowkey Luxury</title>
+  <style>
+    body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif}
+    .hero{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center}
+    h1{font-size:clamp(32px,6vw,56px);margin:0 0 12px}
+    p{max-width:700px;margin:0 auto 24px}
+    .cta{display:inline-block;padding:18px 28px;font-weight:700;border-radius:12px;border:2px solid currentColor;text-decoration:none}
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <h1>Lowkey Luxury</h1>
+    <p>You’re early. Founder access opens here first.</p>
+    <a class="cta" href="https://t.me/lowkeyluxury" target="_blank" rel="noopener">Join the Telegram</a>
+  </section>
+</body>
+</html>
